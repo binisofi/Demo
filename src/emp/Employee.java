@@ -9,6 +9,7 @@ public class Employee {
 
 		
 		String name;
+		String Middleinitial;
 		int age;
 		double salary;
 		
