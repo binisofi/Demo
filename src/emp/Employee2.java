@@ -2,14 +2,13 @@ package emp;
 
 import java.util.Scanner;
 
-public class Employee {
+public class Employee2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		
 		String name;
-		String Middleinitial;
 		int age;
 		double salary;
 		
